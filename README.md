@@ -1,9 +1,10 @@
 ### Hello 👋
 
----
 My name is Diogo Araújo. I'm a engineer and software developer.
 
 <a href="http://diogoaraujo.netlify.app/">Portfolio</a>
+
+---
 
 ## &#x1f4c8; GitHub Stats
 
