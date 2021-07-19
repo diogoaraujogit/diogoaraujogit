@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+---
+My name is Diogo Araújo. I'm a engineer and software developer.
+
+<a href="http://diogoaraujo.netlify.app/">Portfolio</a>
+
+## &#x1f4c8; GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoaraujogit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
