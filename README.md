@@ -2,15 +2,15 @@
 
 My name is Diogo Araújo. I'm a engineer and software developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daraujo-augusto/)](https://www.linkedin.com/in/daraujo-augusto/)
-[![Gmail Badge](https://img.shields.io/badge/-E--mail-B23121?style=flat-square&logo=gmail&logoColor=white&link=mailto:daraujo.augusto@gmail.com)](mailto:daraujo.augusto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daraujo-augusto/)](https://www.linkedin.com/in/daraujo-augusto/)
+[![Gmail Badge](https://img.shields.io/badge/-E--mail-B23121?style=flat&logo=gmail&logoColor=white&link=mailto:daraujo.augusto@gmail.com)](mailto:daraujo.augusto@gmail.com)
 [![Netlify Badge](https://img.shields.io/badge/-Portfolio-00C7B7?logo=netlify&style=flat&logoColor=white&link=http://diogoaraujo.netlify.app/)](http://diogoaraujo.netlify.app/)
 
 
 ---
 ## 🔧 Technologies & Tools
 
-**Front-end**
+**Code**
 
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" title="Nodejs" alt="Nodejs"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" title="React" alt="React"/></code>
@@ -25,8 +25,13 @@ My name is Diogo Araújo. I'm a engineer and software developer.
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1599063087/10388/storybook.png?1599063087" title="Storybook" alt="Storybook"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" title="GitHub" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" alt="Git"/></code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1531810038/4221/notion.jpg?1531810038" title="Notion" alt="Notion"/></code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450448407/160/trello.png?1450448407" title="Trello" alt="Trello"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440" title="VSCode" alt="VSCode"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1576721984/7347/docker.png?1576721984" title="Docker" alt="Docker"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1572919677/7046/eslint.png?1572919677" title="Eslint" alt="Eslint"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1520803560/3640/prettier.png?1520803560" title="Prettier" alt="Prettier"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1498197709/2490/yarn.png?1498197709" title="Yarn" alt="Yarn"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442" title="MacOS" alt="MacOS"/></code>
+
 
 <br/>
 
