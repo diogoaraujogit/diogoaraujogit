@@ -25,7 +25,6 @@ My name is Diogo Araújo. I'm a engineer and software developer.
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1599063087/10388/storybook.png?1599063087" title="Storybook" alt="Storybook"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" title="GitHub" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" alt="Git"/></code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1556829869/5674/gitbash.png?1556829869" title="Gitbash" alt="Gitbash"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1531810038/4221/notion.jpg?1531810038" title="Notion" alt="Notion"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450448407/160/trello.png?1450448407" title="Trello" alt="Trello"/></code>
 
