@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Diogo Araújo. I'm a engineer and software developer.
+My name is Diogo Araújo. I'm an engineer and software developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daraujo-augusto/)](https://www.linkedin.com/in/daraujo-augusto/)
 [![Gmail Badge](https://img.shields.io/badge/-E--mail-B23121?style=flat&logo=gmail&logoColor=white&link=mailto:daraujo.augusto@gmail.com)](mailto:daraujo.augusto@gmail.com)
